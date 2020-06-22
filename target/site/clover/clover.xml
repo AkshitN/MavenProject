@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1592811947544" clover="4.3.1">
+   <project name="MavenProject 1.0-SNAPSHOT" timestamp="1592811939500">
+      <metrics coveredelements="0" complexity="1" loc="13" methods="1" classes="1" statements="1" packages="1" coveredconditionals="0" coveredmethods="0" elements="2" ncloc="8" files="1" conditionals="0" coveredstatements="0"/>
+      <package name="com.Jenkins">
+         <metrics coveredelements="0" complexity="1" loc="13" methods="1" classes="1" statements="1" coveredconditionals="0" coveredmethods="0" elements="2" ncloc="8" files="1" conditionals="0" coveredstatements="0"/>
+         <file path="C:\Users\Akshit\Desktop\MavenProject\MavenProject\src\main\java\com\Jenkins\App.java" name="App.java">
+            <metrics coveredelements="0" coveredconditionals="0" complexity="1" loc="13" coveredmethods="0" methods="1" elements="2" classes="1" ncloc="8" statements="1" conditionals="0" coveredstatements="0"/>
+            <class name="App">
+               <metrics coveredelements="0" coveredconditionals="0" complexity="1" coveredmethods="0" methods="1" elements="2" statements="1" conditionals="0" coveredstatements="0"/>
+            </class>
+            <line complexity="1" visibility="public" signature="main(String[]) : void" num="9" count="0" type="method"/>
+            <line num="11" count="0" type="stmt"/>
+         </file>
+      </package>
+   </project>
+   <testproject name="MavenProject 1.0-SNAPSHOT" timestamp="1592811939500">
+      <metrics coveredelements="6" complexity="3" loc="38" methods="3" classes="1" statements="3" packages="1" coveredconditionals="0" coveredmethods="3" elements="6" ncloc="20" files="1" conditionals="0" coveredstatements="3"/>
+      <package name="com.Jenkins">
+         <metrics coveredelements="6" complexity="3" loc="38" methods="3" classes="1" statements="3" coveredconditionals="0" coveredmethods="3" elements="6" ncloc="20" files="1" conditionals="0" coveredstatements="3"/>
+         <file path="C:\Users\Akshit\Desktop\MavenProject\MavenProject\src\test\java\com\Jenkins\AppTest.java" name="AppTest.java">
+            <metrics coveredelements="6" coveredconditionals="0" complexity="3" loc="38" coveredmethods="3" methods="3" elements="6" classes="1" ncloc="20" statements="3" conditionals="0" coveredstatements="3"/>
+            <class name="AppTest">
+               <metrics coveredelements="6" complexity="3" methods="3" testruns="1" statements="3" coveredconditionals="0" coveredmethods="3" elements="6" testfailures="0" testduration="0.007" conditionals="0" coveredstatements="3" testpasses="1"/>
+            </class>
+            <line complexity="1" visibility="public" signature="AppTest(String)" num="18" count="1" type="method"/>
+            <line num="20" count="1" type="stmt"/>
+            <line complexity="1" visibility="public" signature="suite() : Test" num="26" count="1" type="method"/>
+            <line num="28" count="1" type="stmt"/>
+            <line complexity="1" visibility="public" signature="testApp() : void" num="34" testsuccess="true" count="1" testduration="0.007" type="method"/>
+            <line num="36" count="1" type="stmt"/>
+         </file>
+      </package>
+   </testproject>
+</coverage>

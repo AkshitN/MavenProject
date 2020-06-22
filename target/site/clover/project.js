@@ -1,0 +1,2 @@
+processClover (  {"children":["com/Jenkins/"],"name":"Clover database Mon Jun 22 2020 13:15:27 IST","stats":{"AvgMethodComplexity":1,"Complexity":1,"ErroneousTests":0,"FailingTests":0,"FilteredElements":0,"PassingTests":0,"PcErroneousTests":-1,"PcFailingTests":-1,"PcPassingTests":-1,"TestExecutionTime":0,"Tests":0,"TotalChildren":1,"TotalPercentageCovered":0,"TotalStatements":1,"UncoveredElements":2},"title":"MavenProject 1.0-SNAPSHOT"}
+ ); 
